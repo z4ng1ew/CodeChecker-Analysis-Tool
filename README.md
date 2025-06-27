@@ -107,7 +107,3 @@ No issues were found by any analyzer across:
 ## 📜 License
 
 This project is for educational and personal learning purposes.
-
-```
-
-
