@@ -1,0 +1,1 @@
+[{"command": "/usr/bin/gcc -c -o todo_list todo_list.c", "directory": "/home/s/codechecker", "file": "/home/s/codechecker/todo_list.c"}]
